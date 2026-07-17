@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Hudu",
+        "age": 20,
+        "course": "Finance",
+        "level": 200
+    },
+    {
+        "name": "Ali",
+        "age": 18,
+        "course": "PR",
+        "level": 200
+    },
+    {
+        "name": "Issah",
+        "age": 18,
+        "course": "Physics",
+        "level": 300
+    },
+    {
+        "name": "Mary",
+        "age": 21,
+        "course": "Chemistry",
+        "level": 100
+    },
+    {
+        "name": "Rufaida",
+        "age": 19,
+        "course": "General Science",
+        "level": 100
+    },
+    {
+        "name": "Abdullai",
+        "age": 11,
+        "course": "Mathematics",
+        "level": 300
+    },
+    {
+        "name": "Mohammed",
+        "age": 11,
+        "course": "Mathematics",
+        "level": 400
+    }
+]
